@@ -45,9 +45,7 @@ main {
     margin-top: 100px;
     justify-content: space-between;
     width: 1092px;
-
 }
-
 
 section p {
     color: #C2C2C2;
@@ -70,22 +68,28 @@ span {
     color: #00BFA6
 }
 
-
 .line {
     width: 568px;
     height: 0;
-    border: solid 1px #00BFA6;
+    border: solid 1.4px #00BFA6;
     margin: 0 auto 8px;
-    margin-top: 10px;
+   
+    position: absolute;
+    bottom: 50px;
+    right: 650px;
 }
-
 
 footer {
     color: white;
     height: 50px;
     padding: 10px;
-    line-height: 100px;
+    gap: 40px;
     font-family: 'JetBrains Mono', monospace;
+}
+
+h5 a {
+    color: white;
+    
 }
 
 #locker {
