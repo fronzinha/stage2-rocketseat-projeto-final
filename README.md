@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Recriando Leyout é um projeto para finalizar o aprendizado no stage 2.
+O Recriando Layout é um projeto para finalizar o aprendizado no stage 2.
 
 - [Acesse o projeto finalizado, online](https://fronzinha.github.io/stage2-rocketseat-projeto-final/)
 
