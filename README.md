@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Recriando Leyout é um projeto para finalizar o aprendizado no stage 2.
 
-- [Acesse o projeto finalizado, online](https://rafaaehlke.github.io/recriando-leyoutStage2/)
+- [Acesse o projeto finalizado, online](https://fronzinha.github.io/stage2-rocketseat-projeto-final/)
 
 ## 🔖 Layout
 
